@@ -24,3 +24,7 @@ Route::get('/pesan-makanan', function () {
 Route::get('/booking-pc', function () {
     return view('booking-pc/booking-pc');
 });
+
+Route::get('/biling', function () {
+    return view('biling/biling');
+});

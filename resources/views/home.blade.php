@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="{{ asset('bootstrap/css/bootstrap.css')}}">
     <link rel="stylesheet" href="{{ asset('bootstrap/css/all.css')}}">
-    <title>Home</title>
+    <title>ROG</title>
 </head>
 <body>
     <header class="mt-5 container d-flex justify-content-center align-items-center">
@@ -36,7 +36,7 @@
             </div>
         </div>
         </a>
-        <a href="">
+        <a href="/biling">
             <div class="card mb-3">
                 <div class="card-body text-center">
                     <div class="circle-icon mb-3">

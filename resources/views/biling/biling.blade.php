@@ -15,24 +15,16 @@
         </h1>
     </header>
     <div class="container text-center mt-5">
-        <h1>Booking PC</h1>
+        <h1>Beli Paket & Biling</h1>
         <div class="row mt-4 text-start">
             <div class="card mb-5">
                 <div class="card-body">
-                    <h2>Jenis</h2>
+                    <h2>Paket</h2>
                     <input type="text" class="form-control">
                 </div>
                 <div class="card-body">
-                    <h2>No</h2>
+                    <h2>Biling</h2>
                     <input type="text" class="form-control">
-                </div>
-                <div class="card-body">
-                    <h2>Tanggal</h2>
-                    <input type="date" name="" id="" class="form-control">
-                </div>
-                <div class="card-body">
-                    <h2>Waktu</h2>
-                    <input type="time" name="" id="" class="form-control">
                 </div>
                 <div class="card-body">
                     <button type="submit" class="btn btn-warning">
