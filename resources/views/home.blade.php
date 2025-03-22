@@ -25,7 +25,7 @@
                     <h5>Pesan Makanan</h5>
                 </div>
         </a>
-        <a href="">
+        <a href="/booking-pc">
         </div>
         <div class="card mb-3">
             <div class="card-body text-center">

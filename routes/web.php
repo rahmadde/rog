@@ -20,3 +20,7 @@ Route::get('/', function () {
 Route::get('/pesan-makanan', function () {
     return view('pesan-makanan/pesan-makanan');
 });
+
+Route::get('/booking-pc', function () {
+    return view('booking-pc/booking-pc');
+});
