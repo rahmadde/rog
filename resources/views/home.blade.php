@@ -16,7 +16,7 @@
     </header>
     <div class="container mt-5">
         <h1 class="text-center mb-4">Menu</h1>
-        <a href="">
+        <a href="/pesan-makanan">
             <div class="card mb-3">
                 <div class="card-body text-center">
                     <div class="circle-icon mb-3">
